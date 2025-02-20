@@ -47,7 +47,7 @@ This notebook performs the analysis on the preprocessed Airbnb listings data. Th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here: .
+The main findings of the code can be found at the post available here: https://www.linkedin.com/pulse/family-travel-digits-what-really-costs-accommodate-5-rastaturin-sw09e
 
 ## Licensing, Data, Authors, Acknowledgements<a name="licensing"></a>
 
